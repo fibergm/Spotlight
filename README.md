@@ -5,9 +5,9 @@ Spotlight aims to enable home automation users, get the flux of people leaving a
 This repo contains all files needed to build your own Spotlight from scratch as well as die documentation how to connect it to an MQTT broker. 
 The files are either in the following standard:
 
-Code - .ino files - Arduino IDE
-Electronic -.kicad_pcb/.kicad_sch/.kicad_pro - KiCAD 9
-3D-Design - .step/-f3d - Any Slicer/ Autodesk Fusion
+- Code - .ino files - Arduino IDE
+- Electronic -.kicad_pcb/.kicad_sch/.kicad_pro - KiCAD 9
+- 3D-Design - .step/-f3d - Any Slicer/ Autodesk Fusion
 
 # Sponsoring
 This project was sponsored by Aisler. 
