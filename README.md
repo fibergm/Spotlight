@@ -9,5 +9,5 @@ Code - .ino files - Arduino IDE
 Electronic -.kicad_pcb/.kicad_sch/.kicad_pro - KiCAD 9
 3D-Design - .step/-f3d - Any Slicer/ Autodesk Fusion
 
-#Sponsoring
+# Sponsoring
 This project was sponsored by Aisler. 
