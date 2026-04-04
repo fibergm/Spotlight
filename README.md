@@ -10,4 +10,4 @@ The files are either in the following standard:
 - 3D-Design - .step/-f3d - Any Slicer/ Autodesk Fusion
 
 # Sponsoring
-This project was sponsored by Aisler. 
+This project is sponsored by Aisler. 
