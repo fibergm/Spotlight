@@ -1,0 +1,73 @@
+# project:
+#   type: manuscript
+  
+# manuscript:
+#   article: index.qmd
+
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Spotlight"
+  author:
+    - name: Finn Ringelsiep
+      email: fringelsiep@stud.hs-bremen.de
+      corresponding: true
+      roles: "Lead author"
+    - name: Alicia von Ahlen
+      email: avahlen@stud.hs-bremen.de
+      corresponding: true
+      roles: "Lead author"
+
+  date: last-modified
+  
+  chapters:
+    - index.qmd
+    - content/_sec_introduction.qmd
+    - content/_sec_concept.qmd
+    - content/_sec_coding.qmd
+    - content/_sec_electronic_design.qmd
+    - content/_sec_3d_design.qmd
+    - content/_sec_tbc.qmd
+    - content/references.qmd
+
+
+  reader-mode: true
+
+  favicon: images/hsb-logo.png
+  site-url: https://fibergm.github.io/Spotlight/
+  repo-url: https://github.com/fibergm/Spotlight
+  repo-branch: main
+  downloads: [pdf,epub]
+    
+bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+    code-fold: true
+  pdf:
+    documentclass: scrbook
+#    lof: true
+#    lot: true
+    toc: true    
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    hyperrefoptions:
+      - linktoc=all
+    colorlinks: true
+    linkcolor: "blue"
+    biblio-style: ieee
+    highlight-style: github
+    mainfont: "Calibri"
+    keep-tex: true
+    output-file: amcd_report 
+  epub:
+    theme: flatly
+    output-file: amcd_report
+
+execute:
+  freeze: auto

@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spotlight",
+    "section": "",
+    "text": "Keywords: Smart Home, Internet-of-Things, Home Automation, MQTT, Light Barrier, People Counting System\n\nAbstract\nAdd here some sort of abstract introducing Spotlight and prob cooperation with Aisler",
+    "crumbs": [
+      "Abstract"
+    ]
+  },
+  {
+    "objectID": "content/_sec_introduction.html",
+    "href": "content/_sec_introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Motivation",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/_sec_introduction.html#scope-of-the-project",
+    "href": "content/_sec_introduction.html#scope-of-the-project",
+    "title": "1  Introduction",
+    "section": "1.2 Scope of the project",
+    "text": "1.2 Scope of the project",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/_sec_introduction.html#specifications",
+    "href": "content/_sec_introduction.html#specifications",
+    "title": "1  Introduction",
+    "section": "1.3 Specifications",
+    "text": "1.3 Specifications",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/_sec_introduction.html#tools",
+    "href": "content/_sec_introduction.html#tools",
+    "title": "1  Introduction",
+    "section": "1.4 Tools",
+    "text": "1.4 Tools\nLike Arduino IDE, ESp32, KiCad, Quarto, Aisler, etc",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "content/_sec_concept.html",
+    "href": "content/_sec_concept.html",
+    "title": "2  Overview",
+    "section": "",
+    "text": "basic system overview?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+**Keywords:** Smart Home, Internet-of-Things, Home Automation, MQTT, Light Barrier, People Counting System
+
+# Abstract {.unnumbered}
+
+Add here some sort of abstract introducing Spotlight and prob cooperation with Aisler

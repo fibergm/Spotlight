@@ -1,0 +1,19 @@
+# Introduction
+
+
+
+## Motivation
+
+
+
+## Scope of the project
+
+
+
+## Specifications
+
+
+
+## Tools
+
+Like Arduino IDE, ESp32, KiCad, Quarto, Aisler, etc
