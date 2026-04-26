@@ -64,10 +64,10 @@ format:
     highlight-style: github
     mainfont: "Calibri"
     keep-tex: true
-    output-file: amcd_report 
+    output-file: spotlight_report
   epub:
     theme: flatly
-    output-file: amcd_report
+    output-file: spotlight_report
 
 execute:
   freeze: auto
