@@ -1,1 +1,31 @@
-# If we should need more
+# Beispiele für Quarto Markdown (qmd) for copy paste
+
+Für eine schnelle Übersicht:
+
+[Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
+
+## Bilder einfügen
+
+Hier einmal der Standard Befehl:
+
+![HSB Logo](../images/hsb-logo.png)
+
+:::{.callout-important}
+## Wichtig
+Der Pfad ist wichtig!
+:::
+
+## Callout Blocks
+
+:::{.callout-note}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+### Dropdown Callout Block
+
+:::: {.callout-tip collapse="true"}
+## Klicken Sie hier, um den Tipp aufzuklappen!
+
+Dies ist der verborgene Inhalt, der erst angezeigt wird, wenn der Benutzer auf den Pfeil klickt.
+::::
