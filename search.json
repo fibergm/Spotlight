@@ -50,23 +50,13 @@
     ]
   },
   {
-    "objectID": "content/_sec_concept.html",
-    "href": "content/_sec_concept.html",
-    "title": "2  Overview",
-    "section": "",
-    "text": "basic system overview?",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview</span>"
-    ]
-  },
-  {
     "objectID": "content/_sec_3d_design.html",
     "href": "content/_sec_3d_design.html",
-    "title": "5  3D Design",
+    "title": "4  3D Design",
     "section": "",
     "text": "This is a test. Please fill more content",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>3D Design</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>3D Design</span>"
     ]
   },
   {
